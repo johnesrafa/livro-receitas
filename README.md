@@ -1,4 +1,4 @@
-# Livro de receitas
+# Livro de receitas 🐔
 
 Livro de receitas de salgados
 
